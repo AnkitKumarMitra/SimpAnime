@@ -1,0 +1,16 @@
+.bodyContainer {
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.episodeNumber {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.streamContainer {
+    display: flex;
+    width: 100%;
+}

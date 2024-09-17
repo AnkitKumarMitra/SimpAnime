@@ -1,0 +1,14 @@
+.resultName{
+    padding: 150px 150px 30px 150px;
+    color: #fa077e;
+    font-size: 2rem;
+}
+
+.results {
+    padding-inline: 150px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}

@@ -1,0 +1,126 @@
+* {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #201f31;
+}
+
+.brand {
+    color: white;
+    font-size: 3rem;
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    cursor: pointer;
+}
+
+.brand span {
+    color: #fa077e;
+}
+.kanitThin {
+    font-family: "Kanit", system-ui;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.kanitExtralight {
+    font-family: "Kanit", system-ui;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.kanitLight {
+    font-family: "Kanit", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.kanitMedium {
+    font-family: "Kanit", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.kanitSemibold {
+    font-family: "Kanit", system-ui;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.kanitBold {
+    font-family: "Kanit", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.kanitExtrabold {
+    font-family: "Kanit", system-ui;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.kanitBlack {
+    font-family: "Kanit", system-ui;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.kanitThinItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.kanitExtralightItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.kanitLightItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.kanitRegularItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.kanitMediumItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.kanitSemiboldItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.kanitBoldItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.kanitExtraboldItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.kanitBlackItalic {
+    font-family: "Kanit", system-ui;
+    font-weight: 900;
+    font-style: italic;
+}

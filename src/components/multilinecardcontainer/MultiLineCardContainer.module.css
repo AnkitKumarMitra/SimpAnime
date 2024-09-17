@@ -1,0 +1,19 @@
+.cardContainer {
+    width: 100%;
+    margin-top: 30px;
+    padding-inline: 150px;
+    position: relative;
+    overflow: hidden;
+}
+
+.sliderType {
+    color: #fa077e;
+    font-size: 3rem;
+    margin: 20px 0;
+}
+
+.containCard {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 30px;
+}
